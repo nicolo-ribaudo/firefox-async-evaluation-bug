@@ -1,3 +1,7 @@
+Demo: https://nicolo-ribaudo.github.io/firefox-async-evaluation-bug/
+
+---
+
 Consider this module graph:
 ![](./graph.png)
 
